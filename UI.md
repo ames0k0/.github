@@ -1,4 +1,4 @@
 # UI
 ### TODO
-- [ ] navbar
-    - [ ] `profile` (pick as SetDefault)
+- [x] navbar
+    - [x] `profile` (pick as SetDefault)
