@@ -1,10 +1,12 @@
 # Profile
 
 ### TODO
-- [ ] Create
-- [ ] Read
-- [ ] Update
-- [ ] Delete
+- [x] Create
+- [x] Read
+- [x] Update
+- [x] Delete
 - [x] SetDefault
-- [ ] Checks
-    - [ ] `Profile`     belongs to User
+- [x] Checks
+    - [x] `Profile`     belongs to User
+    - [x] `.username`   is unique
+    - [x] `.is_default` is not deleteable
