@@ -10,3 +10,8 @@
 
 ## TODO
 - [ ] `flash` messages on error/success
+- [ ] merge `account` and `profile` apps
+
+## Research TODO
+- [ ] Load a data from the third-party hosts (localhost)
+- [ ] Telegram Bot
