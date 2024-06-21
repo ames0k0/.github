@@ -2,11 +2,11 @@
 "Small" projects to store/manipulate (by creating) a data (information)
 
 ## Basic Info
-- [UI](UI.md)
-- [AUTH](REALM.md)
+- [UI](README/UI.md)
+- [AUTH](README/REALM.md)
 ## Project Info
-- [Profile](PROFILE.md)
-- [Account](ACCOUNT.md)
+- [Profile](README/PROFILE.md)
+- [Account](README/ACCOUNT.md)
 
 ## TODO
 - [ ] `flash` messages on error/success
